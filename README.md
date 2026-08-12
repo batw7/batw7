@@ -105,17 +105,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=7v770&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=batw7&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7v770&layout=compact&theme=radical&langs_count=8&hide=html" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batw7&layout=compact&theme=radical&langs_count=8&hide=html" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=7v770&theme=radical" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=batw7&theme=radical" alt="GitHub Streak" width="60%" />
 </div>
 
 ---
@@ -126,7 +126,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=7v770&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=batw7&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
       </td>
     </tr>
   </table>
