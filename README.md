@@ -116,18 +116,6 @@
 
 ---
 
-### 📈 Activity Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=batw7&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 <details>
 <summary><b>📈 Detailed Language Breakdown</b></summary>
 <br>
